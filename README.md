@@ -226,13 +226,6 @@ selenium==4.15.2
 blinker==1.6.2
 ```
 
-## 🤝 Support
-
-For issues or questions:
-1. Check the troubleshooting section above
-2. Review log files for detailed error messages
-3. Verify configuration settings are correct
-
 ## 📜 License
 
 MIT License - Use at your own risk!!!!!
