@@ -1,0 +1,4 @@
+selenium-wire==5.1.0
+undetected-chromedriver==3.5.4
+selenium==4.15.2
+blinker==1.6.2
